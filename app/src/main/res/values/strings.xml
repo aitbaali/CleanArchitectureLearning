@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CleanArchiLearning</string>
+    <string name="main_btn_title">CLICK ME</string>
+    <string name="main_tv_content">Button Home Clicked</string>
+</resources>
